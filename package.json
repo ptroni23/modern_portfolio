@@ -6,7 +6,7 @@
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
-  "author": "Phil Thomas",
+  "author": "PT the ET",
   "license": "MIT",
   "dependencies": {
     "node-sass": "^4.11.0"
